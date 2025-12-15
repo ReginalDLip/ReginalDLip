@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 - SahabatService: Marketplace untuk SDGs
 - Firebase-integrated apps
 - Crimson Exit (not finished)
+- BlockShot
+- SeaCleaner
+- Haven't got the name for it
    
 
