@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Im currently studying at BINUS Univiersity
+#Im currently studying at BINUS Univiersity . As of right this is my 5th semester in Binus School of Computer Science
+My streaming right is the infamous BINUS GAT (Game Application and Technology) 
+Although onyl studying for 2 semester , my game making skills has been improved through the game making tool that we used which is Unity.
+
+
+## 🎯 Struggles
+- Scripting
+- Asset making 
 
 ## 🎯 Projects
 - SahabatService: Marketplace untuk SDGs
@@ -26,3 +33,6 @@ Here are some ideas to get you started:
 - Haven't got the name for it
    
 
+## 🔭 My go-to free asset store :
+- kenney.nl (Good art for 2d games and there are some for 3d games also)
+- Itch.io (find the free ones)
