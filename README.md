@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 -->
 #Im currently studying at BINUS Univiersity . As of right this is my 5th semester in Binus School of Computer Science
 My streaming right is the infamous BINUS GAT (Game Application and Technology) 
-Although onyl studying for 2 semester , my game making skills has been improved through the game making tool that we used which is Unity.
+Although only studying for 2 semester , my game making skills has been improved through the game making tool that we used which is Unity.
+
+Little bit my self
+
 
 
 ## 🎯 Struggles
 - Scripting
-- Asset making 
+- Asset making (mostly 2d or pixel art assets)
 
 ## 🎯 Projects
 - SahabatService: Marketplace untuk SDGs
@@ -54,7 +57,7 @@ Although onyl studying for 2 semester , my game making skills has been improved 
 ## 🔭 My Go-To Free Asset Stores
 
 * [**kenney.nl**](https://kenney.nl) – Excellent free assets for 2D games and some 3D assets
-* [**itch.io**](https://itch.io) – Find free game assets from the community
+* [**itch.io**](https://itch.io) – Find ONLY free game assets from the community (Credits will be written in the ReadMe project file)
 
 ---
 
