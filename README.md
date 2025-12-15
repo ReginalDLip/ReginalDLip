@@ -31,8 +31,33 @@ Although onyl studying for 2 semester , my game making skills has been improved 
 - BlockShot
 - SeaCleaner
 - Haven't got the name for it
-   
 
-## 🔭 My go-to free asset store :
-- kenney.nl (Good art for 2d games and there are some for 3d games also)
-- Itch.io (find the free ones)
+## Showcase 
+
+
+| **Crimson Exit**            | **BlockShot**          |
+| --------------------------- | ---------------------- |
+|                             |                        |
+| Puzzle game under pressure. | Classic Pong in space. |
+| [Read More](#)              | [Read More](#)         |
+
+| **SeaCleaner**    | **Platformer**             |
+| ----------------- | -------------------------- |
+|                   |                            |
+| Top-down shooter. | 2D sidescroller adventure. |
+| [Read More](#)    | [Read More](#)             |
+
+
+
+---
+
+## 🔭 My Go-To Free Asset Stores
+
+* [**kenney.nl**](https://kenney.nl) – Excellent free assets for 2D games and some 3D assets
+* [**itch.io**](https://itch.io) – Find free game assets from the community
+
+---
+
+📌 *Most of my projects are built with ************Unity************ and focus on gameplay mechanics and prototyping.*
+
+
