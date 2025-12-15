@@ -38,13 +38,13 @@ Although onyl studying for 2 semester , my game making skills has been improved 
 | **Crimson Exit**            | **BlockShot**          |
 | --------------------------- | ---------------------- |
 |                             |                        |
-| Puzzle game under pressure. | Classic Pong in space. |
+| 3D hack and slash           | Topdown 2d Shooter Arcade |
 | [Read More](#)              | [Read More](#)         |
 
 | **SeaCleaner**    | **Platformer**             |
 | ----------------- | -------------------------- |
 |                   |                            |
-| Top-down shooter. | 2D sidescroller adventure. |
+| Educational Game. | Infinite Jumper game       |
 | [Read More](#)    | [Read More](#)             |
 
 
