@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My streaming right is the infamous BINUS GAT (Game Application and Technology) 
 Although only studying for 2 semester , my game making skills has been improved through the game making tool that we used which is Unity.
 
-Little bit my self
+Little bit my self is 
 
 
 
@@ -40,7 +40,8 @@ Little bit my self
 
 | **Crimson Exit**            | **BlockShot**          |
 | --------------------------- | ---------------------- |
-|                             |                        |
+|                             | <img src="assets/BlockShot.gif" width="220"/>  |
+|---------------------------   ---------------------------                      |
 | 3D hack and slash           | Topdown 2d Shooter Arcade |
 | [Read More](#)              | [Read More](#)         |
 
