@@ -38,17 +38,17 @@ Little bit my self is
 ## Showcase 
 
 
-| **Crimson Exit (WIP)** ⚔️ | **BlockShot** 🔫 |
+| Crimson Exit  | BlockShot |
 | :---: | :---: |
 | <img src="assets/CrimsonExit.gif" width="100%" alt="Crimson Exit GIF"/> | <img src="assets/BlockShot.gif" width="100%" alt="BlockShot GIF"/> |
 | *3D Hack and Slash Prototype* | *Topdown 2D Shooter Arcade* |
-| [📂 View Repo](LINK_REPO_CRIMSON) <br> [🎮 Play on Itch.io](LINK_ITCH_CRIMSON) | [📂 View Repo](LINK_REPO_BLOCKSHOT) <br> [🎮 Play on Itch.io](LINK_ITCH_BLOCKSHOT) |
+| [📂 View Repo](LINK_REPO_CRIMSON) <br> [ Play on Itch.io](LINK_ITCH_CRIMSON) | [📂 View Repo](LINK_REPO_BLOCKSHOT) <br> [ Play on Itch.io](LINK_ITCH_BLOCKSHOT) |
 
-| **SeaCleaner**    | **Platformer**             |
-| ----------------- | -------------------------- |
-|                   |                            |
-| Educational Game. | Infinite Jumper game       |
-| [Read More](#)    | [Read More](#)             |
+| SeaCleaner | Infinite Vertical Jumper |
+| :---: | :---: |
+| <img src="assets/SeaCleaner.gif" width="100%" alt="SeaCleaner GIF"/> | <img src="assets/Platformer.gif" width="100%" alt="Platformer GIF"/> |
+| *Educational Game about Ocean Cleaning* | *Infinite Jumper with Highscore System* |
+| [📂 View Repo](LINK_REPO_SEACLEANER) <br> [ Play on Itch.io](LINK_ITCH_SEACLEANER) | [📂 View Repo](LINK_REPO_PLATFORMER) <br> [ Play on Itch.io](LINK_ITCH_PLATFORMER) |
 
 
 
