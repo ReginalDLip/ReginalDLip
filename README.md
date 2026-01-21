@@ -23,7 +23,7 @@ Little bit my self is
 
 
 
-## 🎯 Struggles
+## Struggles
 - Scripting
 - Asset making (mostly 2d or pixel art assets)
 
@@ -38,12 +38,11 @@ Little bit my self is
 ## Showcase 
 
 
-| **Crimson Exit**            | **BlockShot**          |
-| --------------------------- | ---------------------- |
-|                             | <img src="assets/BlockShot.gif" width="220"/>  |
-|---------------------------   ---------------------------                      |
-| 3D hack and slash           | Topdown 2d Shooter Arcade |
-| [Read More](#)              | [Read More](#)         |
+| **Crimson Exit (WIP)** ⚔️ | **BlockShot** 🔫 |
+| :---: | :---: |
+| <img src="assets/CrimsonExit.gif" width="100%" alt="Crimson Exit GIF"/> | <img src="assets/BlockShot.gif" width="100%" alt="BlockShot GIF"/> |
+| *3D Hack and Slash Prototype* | *Topdown 2D Shooter Arcade* |
+| [📂 View Repo](LINK_REPO_CRIMSON) <br> [🎮 Play on Itch.io](LINK_ITCH_CRIMSON) | [📂 View Repo](LINK_REPO_BLOCKSHOT) <br> [🎮 Play on Itch.io](LINK_ITCH_BLOCKSHOT) |
 
 | **SeaCleaner**    | **Platformer**             |
 | ----------------- | -------------------------- |
