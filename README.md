@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Im currently studying at BINUS Univiersity . As of right this is my 5th semester in Binus School of Computer Science
-My streaming right is the infamous BINUS GAT (Game Application and Technology) 
-Although only studying for 2 semester , my game making skills has been improved through the game making tool that we used which is Unity.
+#I'm currently a 5th-semester Computer Science student at BINUS University, specializing in Game Application and Technology (GAT). Over the past two semesters in this specialization, I've significantly improved my game development skills, primarily using Unity.
 
-Little bit my self is 
+A little bit about myself: I'm driven by a strong curiosity for things I don't know yet, and I enjoy diving into hard and complex subjects.
+
+Currently, I am expanding my skillset by participating in a Data Scientist program from the DBS Foundation. Through this, I aim to learn new technologies and broaden my future career paths beyond game development.
 
 
 
@@ -42,7 +42,7 @@ Little bit my self is
 | :---: | :---: |
 | <img src="assets/Crimsondiner.gif" width="100%" alt="Crimsondiner GIF"/> | <img src="assets/BlockShot.gif" width="100%" alt="BlockShot GIF"/> |
 | *3D Hack and Slash Prototype* | *Topdown 2D Shooter Arcade* |
-| [📂 View Repo](https://github.com/ReginalDLip/CrimsonDiner) <br> [ Play on Itch.io](LINK_ITCH_CRIMSON) | [📂 View Repo](https://github.com/ReginalDLip/BlockShot) <br> [ Play on Itch.io](https://jailip.itch.io/blockshot) |
+| [📂 View Repo](https://github.com/ReginalDLip/CrimsonDiner) <br> [ Play on Itch.io](https://jailip.itch.io/crimson-diner) | [📂 View Repo](https://github.com/ReginalDLip/BlockShot) <br> [ Play on Itch.io](https://jailip.itch.io/blockshot) |
 
 | SeaCleaner | Infinite Vertical Jumper |
 | :---: | :---: |
